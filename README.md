@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as an Automation Software QA Engineer
-- 🌱 I’m currently learning NodeJS, React JS
+- 🔭 I’m currently working as an Automation Engineer
+- 🌱 Interested in: NodeJs, ReactJs, Golang, Ansible, Docker, 
 - 📫 How to reach me: nguyenduyphuong14121996@gmail.com 
 
