@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working as an Automation Engineer
-- 🌱 Interested in: NodeJs, ReactJs, Golang, Ansible, Container, Container Orchestration, DevOps.
+- 🌱 Interested in: NodeJs, Docker, Kubernetes, DevOps.
 - 📫 How to reach me: nguyenduyphuong14121996@gmail.com 
 
