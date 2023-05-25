@@ -6,7 +6,8 @@
 </em></p>
 
 [![Twitter: Phuong Nguyen](https://img.shields.io/twitter/follow/PhngNgu32733550?style=social)]([https://twitter.com/beingAshifZafar](https://twitter.com/PhngNgu32733550))
-[![Linkedin: Nguyen Duy Phuong](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/nguyen-duy-phuong-aa0a07202/))
+[![Linkedin: Nguyen Duy Phuong](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nguyen-duy-phuong-aa0a07202/))
+
 [![GitHub xxxibgdrgnmm](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/xxxibgdrgnmm)
 
 
