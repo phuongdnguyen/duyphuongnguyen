@@ -18,7 +18,7 @@
 const xxxibgdrgnmm = {
   pronouns: "he" | "his",
   code: [Go],
-  tools: [AWS, GCP, Kubernetes, Linux, Ansible, Kafka],
+  tools: [AWS, GCP, Kubernetes, Linux, Ansible, Kafka, Grafana, Prometheus],
 }
 ```
 
