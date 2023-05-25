@@ -7,7 +7,7 @@
 
 [![Twitter: Phuong Nguyen](https://img.shields.io/twitter/follow/PhngNgu32733550?style=social)]([https://twitter.com/beingAshifZafar](https://twitter.com/PhngNgu32733550))
 
-[![GitHub xxxibgdrgnmm](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/xxxibgdrgnmm)
+[![GitHub xxxibgdrgnmm](https://img.shields.io/github/followers/xxxibgdrgnmm?label=follow&style=social)](https://github.com/xxxibgdrgnmm)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
