@@ -2,9 +2,7 @@
 
 <h2> I'm Duy Phuong Nguyen! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
 
----
 `Opinion is the medium between knowledge and ignorance.`
----
 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <p><em>Site Reliability Engineer at <a href="https://wallet.krystal.app">Krystal Wallet.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
