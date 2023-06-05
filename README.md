@@ -28,7 +28,7 @@ const xxxibgdrgnmm = {
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 Learning about <strong>distributed systems</strong>, <strong>platform engineering</strong></li>
-<li>📝 I <del>regulary</del> write articles on <a href="[https://blog.stanleylim.me](https://hashnode.com/@phuongnguyenduy)">my blog</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="https://phuongnguyen.hashnode.dev/">my blog</a>.</li>
 <li>💬 Ping me about <strong>kubernetes, golang, infrastructure automation and cloud stuff</strong>.</li>
 </ul>
 
