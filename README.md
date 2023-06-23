@@ -12,7 +12,7 @@
 
 [![Linkedin: Nguyen Duy Phuong](https://img.shields.io/badge/-Nguyen%20Duy%20Phuong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ashif-zafar-70618434/](https://www.linkedin.com/in/nguyen-duy-phuong-aa0a07202/))]([[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/nguyen-duy-phuong-aa0a07202/)])
 
-[![GitHub nduyphuong](https://img.shields.io/github/followers/xxxibgdrgnmm?label=follow&style=social)](https://github.com/nduyphuong)
+[![GitHub nduyphuong](https://img.shields.io/github/followers/nduyphuong?label=follow&style=social)](https://github.com/nduyphuong)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
