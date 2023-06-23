@@ -5,7 +5,7 @@
 `Opinion is the medium between knowledge and ignorance.`
 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Site Reliability Engineer at <a href="https://wallet.krystal.app">Krystal Wallet.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Platform Engineer at <a href="[https://wallet.krystal.app](https://www.linkedin.com/company/vpbank/)">VPBank.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Phuong Nguyen](https://img.shields.io/twitter/follow/PhngNgu32733550?style=social)]([https://twitter.com/beingAshifZafar](https://twitter.com/PhngNgu32733550))
