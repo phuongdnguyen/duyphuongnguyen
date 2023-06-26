@@ -5,7 +5,7 @@
 `Every child is an artist, the problem is staying an artist when you grow up`
 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Platform Engineer at <a href="https://www.linkedin.com/company/vpbank">VPBank.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Some Engineer at <a href="https://www.linkedin.com/company/vpbank">VPBank.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Phuong Nguyen](https://img.shields.io/twitter/follow/PhngNgu32733550?style=social)]([https://twitter.com/beingAshifZafar](https://twitter.com/PhngNgu32733550))
