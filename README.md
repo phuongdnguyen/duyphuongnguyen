@@ -1,44 +1,81 @@
-### Hi there 👋
 
-<h2> I'm Duy Phuong Nguyen! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
+<h1 align="center">Hi , I'm Duy Phuong Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Site+Reliability+Engineer;Consistency+is+the+key;%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
+</p>
+<hr/>
+<h4 align="center">I am a Site Reliability Engineer. I like to Code, Reading Books, Play Video Games. I believe in the motto that you will never know everything, so i'm a lifelong learner.</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nduyphuong&label=Profile%20views&color=0e75b6&style=plastic" alt="nduyphuong" /> </p>
 
-`Consistency is the key`
-
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Some Engineer at <a href="https://www.linkedin.com/company/vpbank">VPBank.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Twitter: Phuong Nguyen](https://img.shields.io/twitter/follow/PhngNgu32733550?style=social)]([https://twitter.com/beingAshifZafar](https://twitter.com/PhngNgu32733550))
-
-[![Linkedin: Nguyen Duy Phuong](https://img.shields.io/badge/-Nguyen%20Duy%20Phuong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ashif-zafar-70618434/](https://www.linkedin.com/in/nguyen-duy-phuong-aa0a07202/))]([[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/nguyen-duy-phuong-aa0a07202/)])
-
-[![GitHub nduyphuong](https://img.shields.io/github/followers/nduyphuong?label=follow&style=social)](https://github.com/nduyphuong)
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nduyphuong&theme=algolia" alt="nduyphuong"  /></p>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 🛠️ My Skills
 
-```javascript
-const xxxibgdrgnmm = {
-  pronouns: "he" | "his",
-  code: [Go],
-  tools: [AWS, GCP, Kubernetes, Linux, Automation Tools],
-}
-```
+### 👉 Programming languages
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🧐 Learning about <strong>distributed systems</strong>, <strong>platform engineering</strong></li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.phuongnguyen.dev/">my blog</a>.</li>
-<li>💬 Ping me about <strong>kubernetes, golang, infrastructure automation</strong>.</li>
-</ul>
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="Go" src="https://img.shields.io/badge/Go%20-%232370ED.svg?logo=go&logoColor=white">
+  </a> 
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### 👉 Databases
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.postgresql.org/"><img alt="Postgres" src ="https://img.shields.io/badge/PostgreSQL-%2307405e.svg?style=flat&logo=postgres&logoColor=white"/></a>
+ </p>
 
- ---
- ⭐️ From [@nduyphuong](https://github.com/nduyphuong)
- 
- 
-![](https://raw.githubusercontent.com/nduyphuong/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nduyphuong/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/nduyphuong/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nduyphuong/github-stats/master/generated/languages.svg#gh-light-mode-only)
+### 👉 Distributed Storage
+<p align="left">
+  &emsp;
+    <a href="https://docs.ceph.com/en/quincy/"><img alt="CEPH" src="https://img.shields.io/badge/CEPH-red.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html"><img alt="HDFS" src ="https://img.shields.io/badge/HDFS-yellow.svg?style=flat&logo=yarn&logoColor=white"/></a>
+ </p>
+  
+### 👉 Cloud Computing
+<p align="left">
+  &emsp;
+    <a href="https://aws.amazon.com/vi/"><img alt="AWS" src="https://img.shields.io/badge/aws-red.svg?style=flat&logo=AWS&logoColor=white"></a>
+  &emsp;
+    <a href="https://cloud.google.com/"><img alt="GCP" src ="https://img.shields.io/badge/gcp-%2307405e.svg?style=flat&logo=gcp&logoColor=white"/></a>
+ </p>
+  
+<br/>
+
+## 📊 Github Stats (Expand to View) 
+
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/nduyphuong/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nduyphuong&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nduyphuong&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nduyphuong" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+<br/>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://blog.phuongnguyen.dev/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:career.phuongnguyen@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/nduyphuong"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/duy-phuong-nguyen-aa0a07202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+<hr/>
