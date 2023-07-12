@@ -18,7 +18,7 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <a href="https://go.dev/" target="_blank"> 
     <img alt="Go" src="https://img.shields.io/badge/Go%20-%232370ED.svg?logo=go&logoColor=white">
   </a> 
 </p>
