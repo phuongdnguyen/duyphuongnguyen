@@ -38,8 +38,6 @@
   &emsp;
     <a href="https://docs.ceph.com/en/quincy/"><img alt="CEPH" src="https://img.shields.io/badge/CEPH-red.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
     <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html"><img alt="HDFS" src ="https://img.shields.io/badge/HDFS-yellow.svg?style=flat&logo=yarn&logoColor=white"/></a>
  </p>
   
