@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Site+Reliability+Engineer;Consistency+is+the+key;%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">I am a Site Reliability Engineer. I like to Code, Reading Books, Play Video Games. I believe in the motto that you will never know everything, so i'm a lifelong learner.</h4>
+<h4 align="center">I am a Site Reliability Engineer. I like to Code, Reading Books, Play Video Games. I believe in the motto that you will never know everything.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nduyphuong&label=Profile%20views&color=0e75b6&style=plastic" alt="nduyphuong" /> </p>
 
