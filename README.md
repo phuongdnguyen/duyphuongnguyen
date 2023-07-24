@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Site+Reliability+Engineer;Consistency+is+the+key;%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">I believe in the motto that you will never know everything.</h4>
+<h4 align="center">Be enough, be yourself first.The rest of the world can wait.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nduyphuong&label=Profile%20views&color=0e75b6&style=plastic" alt="nduyphuong" /> </p>
 
@@ -32,6 +32,17 @@
  </p>
   
 <br/>
+
+### 👉 Gear
+<p align="left">
+  &emsp;
+    <a href="https://www.keychron.com/pages/keychron-q8-customizable-mechanical-keyboard"><img alt="KeychronQ8" src="https://img.shields.io/badge/keychron-q8-red.svg?style=flat&logoColor=white"></a>
+  &emsp;
+    <a href="https://gearvn.com/products/chuot-logitech-mx-master-3-wireless-graphite"><img alt="Master3" src="https://img.shields.io/badge/logitech-mx-master-3-red.svg?style=flat&logoColor=white"></a>
+ </p>
+  
+<br/>
+
 
 ## 📊 Github Stats (Expand to View) 
 
