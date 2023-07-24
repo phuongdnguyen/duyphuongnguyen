@@ -38,7 +38,7 @@
   &emsp;
     <a href="https://www.keychron.com/pages/keychron-q8-customizable-mechanical-keyboard"><img alt="KeychronQ8" src="https://img.shields.io/badge/keychron-q8-red.svg?style=flat&logoColor=white"></a>
   &emsp;
-    <a href="https://gearvn.com/products/chuot-logitech-mx-master-3-wireless-graphite"><img alt="Master3" src="https://img.shields.io/badge/logitech-mx-master-3-red.svg?style=flat&logoColor=white"></a>
+    <a href="https://gearvn.com/products/chuot-logitech-mx-master-3-wireless-graphite"><img alt="Master3" src="https://img.shields.io/badge/mx-master3-red.svg?style=flat&logoColor=white"></a>
  </p>
   
 <br/>
