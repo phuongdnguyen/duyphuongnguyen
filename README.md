@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Site+Reliability+Engineer;Consistency+is+the+key;%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">Be enough, be yourself first.The rest of the world can wait.</h4>
+<h4 align="center">Be enough, be yourself first, the rest of the world can wait.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nduyphuong&label=Profile%20views&color=0e75b6&style=plastic" alt="nduyphuong" /> </p>
 
