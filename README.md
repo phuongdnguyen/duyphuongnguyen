@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Duy Phuong Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Site+Reliability+Engineer;Consistency+is+the+key;%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" /></a>
 </p>
