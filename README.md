@@ -6,10 +6,10 @@
 <hr/>
 <h4 align="center">Be enough, be yourself first, the rest of the world can wait.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nduyphuong&label=Profile%20views&color=0e75b6&style=plastic" alt="nduyphuong" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sawtheshib&label=Profile%20views&color=0e75b6&style=plastic" alt="sawtheshib" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nduyphuong&theme=algolia" alt="nduyphuong"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawtheshib&theme=algolia" alt="sawtheshib"  /></p>
 
 
 ## 🛠️ My Skills
@@ -51,10 +51,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/nduyphuong/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nduyphuong&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/sawtheshib/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sawtheshib&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nduyphuong&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nduyphuong" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sawtheshib&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sawtheshib" height="192px"/>
   <br/>
   </p>
 </details>
@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://blog.phuongnguyen.dev/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:career.phuongnguyen@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/nduyphuong"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/sawtheshib"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/duy-phuong-nguyen-aa0a07202/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
