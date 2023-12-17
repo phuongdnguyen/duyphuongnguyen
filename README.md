@@ -6,7 +6,6 @@
 <hr/>
 <h4 align="center">Be enough, be yourself first, the rest of the world can wait.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sawtheshib&label=Profile%20views&color=0e75b6&style=plastic" alt="sawtheshib" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawtheshib&theme=algolia" alt="sawtheshib"  /></p>
